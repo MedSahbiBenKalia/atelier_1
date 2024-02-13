@@ -1,0 +1,19 @@
+p{
+  color: brown;
+  font-size: large;
+  background-color: rgb(255, 255, 162);
+  width: 75px;
+  
+}
+label:hover{
+    color:blue;
+}
+label:active{
+    color:red;
+}
+.win{
+  background-color:aquamarine;
+}
+.hidden{
+  color:rgb(255, 255, 162)
+}

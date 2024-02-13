@@ -1,0 +1,18 @@
+span{
+    font-family:Georgia;
+    font-size: 10px;
+    color: black;
+    height: 400px;
+}
+div#test{
+    height: 140px;
+}
+
+div#option{
+    background-color: rgb(255, 247, 0);
+    width: 500px;
+}
+input{
+    width: 166px;
+    
+}

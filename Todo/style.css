@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 15px;
+    height: 680px;
+}
+.items{
+    width: 50%;
+    padding-left: 25px;
+    padding-top: 15px;
+   
+}
+span{
+    color:blue;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+li>h4{
+    margin: 8px;
+}
+li>p{
+    margin: 8px;
+    padding-left: 20px ;
+}
+input[name="content"]{
+    width: 200px;
+}
+input[name="topic"]{
+    width: 200px;
+}
+input[type="button"]{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+}
