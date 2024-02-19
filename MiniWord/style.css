@@ -1,12 +1,10 @@
-span{
-    font-family:Georgia;
-    font-size: 10px;
-    color: black;
+textarea{
     height: 400px;
+    width: 300px;
+    overflow: hidden;
+    margin: 50px;
 }
-div#test{
-    height: 140px;
-}
+
 
 div#option{
     background-color: rgb(255, 247, 0);

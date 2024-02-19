@@ -1,4 +1,4 @@
-const text = document.querySelector("span");
+const text = document.querySelector("textarea[name='text']");
 
 // document.body.addEventListener("input", update);
 
